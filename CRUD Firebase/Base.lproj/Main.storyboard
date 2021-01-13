@@ -28,7 +28,7 @@
                     <navigationItem key="navigationItem" id="Tzv-gk-eLV">
                         <barButtonItem key="rightBarButtonItem" systemItem="add" id="aZc-Hb-mxD">
                             <connections>
-                                <action selector="onAddTapped:" destination="BYZ-38-t0r" id="0tJ-j2-po1"/>
+                                <action selector="onAddTapped:" destination="BYZ-38-t0r" id="jHG-L8-flg"/>
                             </connections>
                         </barButtonItem>
                     </navigationItem>
